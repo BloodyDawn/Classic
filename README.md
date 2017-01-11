@@ -1,1 +1,1 @@
-# Bloody Dawn Emulator Classic 1.5
+# Emulator Classic 1.5
