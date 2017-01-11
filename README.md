@@ -1,1 +1,1 @@
-# Bloody Dawn Emulator Lineage 2 Classic 1.5
+# Bloody Dawn Emulator Classic 1.5
